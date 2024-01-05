@@ -5,7 +5,12 @@ Petit programme d'analyse du SEO sur les sites WEB
 Prérequis
 Installaltion:
 
+```bash
 pip install -r requirements.txt
+```
+
+
+
 pip install beautifulsoup4
 pip install requests
 
